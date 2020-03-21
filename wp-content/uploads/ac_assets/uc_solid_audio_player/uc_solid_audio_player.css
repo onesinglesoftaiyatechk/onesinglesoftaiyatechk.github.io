@@ -168,10 +168,10 @@
 	width:100px;
 	height:100px;
 	margin:-50px 0 0 -50px;
-	background:url(/aiyatechk-uat/wp-content/uploads/ac_assets/uc_solid_audio_player/bigplay.svg) no-repeat
+	background:url(./bigplay.svg) no-repeat
 }
 .no-svg .uc_solid_audio_player .mejs-overlay-button {
-	background-image:url(/aiyatechk-uat/wp-content/uploads/ac_assets/uc_solid_audio_player/bigplay.png)
+	background-image:url(./bigplay.png)
 }
 .uc_solid_audio_player .mejs-overlay:hover .uc_solid_audio_player .mejs-overlay-button {
 	background-position:0 -100px
@@ -184,7 +184,7 @@
 	height:80px;
 	margin:-40px 0 0 -40px;
 	background:#333;
-	background:url(/aiyatechk-uat/wp-content/uploads/ac_assets/uc_solid_audio_player/background.png);
+	background:url(./background.png);
 	background:rgba(0,0,0,.9);
 	background:-webkit-gradient(linear,0 0,0 100%,from(rgba(50,50,50,.9)),to(rgba(0,0,0,.9)));
 	background:-webkit-linear-gradient(top,rgba(50,50,50,.9),rgba(0,0,0,.9));
@@ -197,7 +197,7 @@
 	display:block;
 	width:80px;
 	height:80px;
-	background:transparent url(/aiyatechk-uat/wp-content/uploads/ac_assets/uc_solid_audio_player/loading.gif) 50% 50% no-repeat
+	background:transparent url(./loading.gif) 50% 50% no-repeat
 }
 .uc_solid_audio_player .mejs-container .mejs-controls {
 	position:absolute;
@@ -206,7 +206,7 @@
 	padding:0;
 	bottom:0;
 	left:0;
-	background:url(/aiyatechk-uat/wp-content/uploads/ac_assets/uc_solid_audio_player/background1.png);
+	background:url(./background1.png);
 	background:none;
 	
 	height:30px;
@@ -240,12 +240,12 @@
 	width:16px;
 	border:0;
 	/*background:none;*/
-	background:transparent url(/aiyatechk-uat/wp-content/uploads/ac_assets/uc_solid_audio_player/controls.svg) no-repeat;
+	background:transparent url(./controls.svg) no-repeat;
 	
 }
 
 .uc_solid_audio_player .no-svg .mejs-controls .mejs-button button {
-	background-image:url(/aiyatechk-uat/wp-content/uploads/ac_assets/uc_solid_audio_player/controls.png)
+	background-image:url(./controls.png)
 }
 .uc_solid_audio_player .mejs-controls .mejs-button button:focus {
 	outline:dotted 1px #999
@@ -437,7 +437,7 @@
 	display:none;
 	height:115px;
 	width:25px;
-	background:url(/aiyatechk-uat/wp-content/uploads/ac_assets/uc_solid_audio_player/background.png);
+	background:url(./background.png);
 	background:rgba(50,50,50,.7);
 	-webkit-border-radius:0;
 	-moz-border-radius:0;
@@ -533,7 +533,7 @@
 	right:-51px;
 	width:85px;
 	height:100px;
-	background:url(/aiyatechk-uat/wp-content/uploads/ac_assets/uc_solid_audio_player/background.png);
+	background:url(./background.png);
 	background:rgba(50,50,50,.7);
 	border:solid 1px transparent;
 	padding:10px 10px 0;
@@ -668,7 +668,7 @@
 }
 .uc_solid_audio_player .mejs-captions-text {
 	padding:0;
-	background:url(/aiyatechk-uat/wp-content/uploads/ac_assets/uc_solid_audio_player/background1.png);
+	background:url(./background1.png);
 	background:rgba(20,20,20,.5);
 	white-space:pre-wrap;
 	-webkit-box-shadow:5px 0 0 rgba(20,20,20,.5),-5px 0 0 rgba(20,20,20,.5);
@@ -739,7 +739,7 @@
 	right:-10px;
 	width:130px;
 	height:100px;
-	background:url(/aiyatechk-uat/wp-content/uploads/ac_assets/uc_solid_audio_player/background.png);
+	background:url(./background.png);
 	background:rgba(50,50,50,.7);
 	border:solid 1px transparent;
 	padding:10px;
@@ -782,7 +782,7 @@
 	left:0;
 	width:100%;
 	height:100%;
-	background:url(/aiyatechk-uat/wp-content/uploads/ac_assets/uc_solid_audio_player/background.png);
+	background:url(./background.png);
 	background:rgba(50,50,50,.7);
 	z-index:1000;
 	overflow:hidden
@@ -795,7 +795,7 @@
 	position:absolute;
 	right:0;
 	top:0;
-	background:url(/aiyatechk-uat/wp-content/uploads/ac_assets/uc_solid_audio_player/background.png);
+	background:url(./background.png);
 	background:rgba(50,50,50,.7);
 	color:#fff;
 	padding:4px;
@@ -820,7 +820,7 @@
 	left:-10px;
 	width:60px;
 	height:100px;
-	background:url(/aiyatechk-uat/wp-content/uploads/ac_assets/uc_solid_audio_player/background.png);
+	background:url(./background.png);
 	background:rgba(50,50,50,.7);
 	border:solid 1px transparent;
 	padding:0;
@@ -872,7 +872,7 @@
 	background-color:rgba(255,255,255,.4)!important
 }
 .uc_solid_audio_player .mejs-controls .mejs-button.mejs-jump-forward-button {
-	background:transparent url(/aiyatechk-uat/wp-content/uploads/ac_assets/uc_solid_audio_player/jumpforward.png) no-repeat 3px 3px
+	background:transparent url(./jumpforward.png) no-repeat 3px 3px
 }
 .uc_solid_audio_player .mejs-controls .mejs-button.mejs-jump-forward-button button {
 	background:transparent;
@@ -881,7 +881,7 @@
 	color:#fff
 }
 .uc_solid_audio_player .mejs-controls .mejs-button.mejs-skip-back-button {
-	background:transparent url(/aiyatechk-uat/wp-content/uploads/ac_assets/uc_solid_audio_player/skipback.png) no-repeat 3px 3px
+	background:transparent url(./skipback.png) no-repeat 3px 3px
 }
 .uc_solid_audio_player .mejs-controls .mejs-button.mejs-skip-back-button button {
 	background:transparent;
