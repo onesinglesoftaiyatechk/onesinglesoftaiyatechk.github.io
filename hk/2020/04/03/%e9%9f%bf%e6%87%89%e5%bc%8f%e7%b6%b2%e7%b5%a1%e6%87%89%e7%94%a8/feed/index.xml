@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	「響應式網絡應用」的評論	</title>
+	<atom:link href="/hk/2020/04/03/%E9%9F%BF%E6%87%89%E5%BC%8F%E7%B6%B2%E7%B5%A1%E6%87%89%E7%94%A8/feed/" rel="self" type="application/rss+xml" />
+	<link>/hk/2020/04/03/%e9%9f%bf%e6%87%89%e5%bc%8f%e7%b6%b2%e7%b5%a1%e6%87%89%e7%94%a8/</link>
+	<description>提供網站，手機 App ，各樣無綫產品開發服務</description>
+	<lastBuildDate>Fri, 03 Apr 2020 09:30:41 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+</channel>
+</rss>

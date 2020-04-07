@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>未分類 &#8211; AIYATEC</title>
+	<atom:link href="/hk/category/%E6%9C%AA%E5%88%86%E9%A1%9E/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>提供網站，手機 App ，各樣無綫產品開發服務</description>
+	<lastBuildDate>Fri, 03 Apr 2020 09:30:41 +0000</lastBuildDate>
+	<language>zh-HK</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>響應式網絡應用</title>
+		<link>/hk/2020/04/03/%e9%9f%bf%e6%87%89%e5%bc%8f%e7%b6%b2%e7%b5%a1%e6%87%89%e7%94%a8/</link>
+					<comments>/hk/2020/04/03/%e9%9f%bf%e6%87%89%e5%bc%8f%e7%b6%b2%e7%b5%a1%e6%87%89%e7%94%a8/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 03 Apr 2020 09:29:56 +0000</pubDate>
+				<category><![CDATA[未分類]]></category>
+		<guid isPermaLink="false">https://onesinglesoft.com/aiyatechk-dev2/?p=509</guid>
+
+					<description><![CDATA[在建立新網站或考慮已有網站的新設計時，弄清您想要的內容並獲得啟發的最佳方法之一就是花時間研究其他網站的示例。 &#8230;&#160;<a href="/hk/2020/04/03/%e9%9f%bf%e6%87%89%e5%bc%8f%e7%b6%b2%e7%b5%a1%e6%87%89%e7%94%a8/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">響應式網絡應用</span></a>]]></description>
+										<content:encoded><![CDATA[
+<pre class="wp-block-preformatted">在建立新網站或考慮已有網站的新設計時，弄清您想要的內容並獲得啟發的最佳方法之一就是花時間研究其他網站的示例。
+
+對於網頁設計師而言，查看其他網站的佈局或設計可以激發出有關如何訪問您正在使用的網站的想法。對於難以通過視覺傳達所需內容的企業所有者或業餘網站所有者而言，分析您喜歡和不喜歡其他網站的內容要比從頭開始確定您想要的內容容易得多。
+
+對於現代網站設計項目，僅在台式機上花時間細讀網站示例是不夠的。如今，大多數網絡用戶都在移動設備上進行搜索，瀏覽和購物。
+
+建立網站時，您必須考慮移動設備。這意味著您在尋找靈感時也應該如此。您需要的是尋找自適應Web設計示例。</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/hk/2020/04/03/%e9%9f%bf%e6%87%89%e5%bc%8f%e7%b6%b2%e7%b5%a1%e6%87%89%e7%94%a8/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

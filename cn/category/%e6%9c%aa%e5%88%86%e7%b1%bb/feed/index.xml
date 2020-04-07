@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>未分类 &#8211; AIYATEC</title>
+	<atom:link href="/cn/category/%E6%9C%AA%E5%88%86%E7%B1%BB/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>提供网站，手机 App ，各样无线产品开发服务</description>
+	<lastBuildDate>Fri, 03 Apr 2020 09:31:35 +0000</lastBuildDate>
+	<language>zh-CN</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>响应式网络应用</title>
+		<link>/cn/2020/04/03/%e5%93%8d%e5%ba%94%e5%bc%8f%e7%bd%91%e7%bb%9c%e5%ba%94%e7%94%a8/</link>
+					<comments>/cn/2020/04/03/%e5%93%8d%e5%ba%94%e5%bc%8f%e7%bd%91%e7%bb%9c%e5%ba%94%e7%94%a8/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 03 Apr 2020 09:31:34 +0000</pubDate>
+				<category><![CDATA[未分类]]></category>
+		<guid isPermaLink="false">https://onesinglesoft.com/aiyatechk-dev2/?p=512</guid>
+
+					<description><![CDATA[在建立新网站或考虑已有网站的新设计时，弄清您想要的内容并获得启发的最佳方法之一就是花时间研究其他网站的示例。 &#8230;&#160;<a href="/cn/2020/04/03/%e5%93%8d%e5%ba%94%e5%bc%8f%e7%bd%91%e7%bb%9c%e5%ba%94%e7%94%a8/" class="" rel="bookmark">阅读更多 &#187;<span class="screen-reader-text">响应式网络应用</span></a>]]></description>
+										<content:encoded><![CDATA[
+<pre class="wp-block-preformatted">在建立新网站或考虑已有网站的新设计时，弄清您想要的内容并获得启发的最佳方法之一就是花时间研究其他网站的示例。
+
+对于网页设计师而言，查看其他网站的布局或设计可以激发出有关如何访问您正在使用的网站的想法。对于难以通过视觉传达所需内容的企业所有者或业余网站所有者而言，分析您喜欢和不喜欢其他网站的内容要比从头开始确定您想要的内容容易得多。
+
+对于现代网站设计项目，仅在台式机上花时间细读网站示例是不够的。如今，大多数网络用户都在移动设备上进行搜索，浏览和购物。
+
+建立网站时，您必须考虑移动设备。这意味着您在寻找灵感时也应该如此。您需要的是寻找自适应Web设计示例。</pre>
+]]></content:encoded>
+					
+					<wfw:commentRss>/cn/2020/04/03/%e5%93%8d%e5%ba%94%e5%bc%8f%e7%bd%91%e7%bb%9c%e5%ba%94%e7%94%a8/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

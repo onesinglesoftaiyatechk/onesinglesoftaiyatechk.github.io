@@ -860,21 +860,22 @@
 				"autoplay"      : autoplay && autoplay,
 				"loop"          : loop && Boolean(loop),
 				"speed"         : speed && Number(speed),
-				"slidesPerView" : Number(respoonsive_seetings['ekit_columns_desktop']),
-				"spaceBetween"  : spaceBetween && Number(spaceBetween),
+				"slidesPerView" : Number(respoonsive_seetings['ekit_columns_mobile']),
+				"spaceBetween": spaceBetween && Number(spaceBetween),
+				breakpointsInverse: true,
 				"breakpoints"   : {
-					"1024" : {
-						"slidesPerView" : Number(respoonsive_seetings['ekit_columns_desktop']),
+					640 : {
+						"slidesPerView" : Number(respoonsive_seetings['ekit_columns_mobile']),
 						"spaceBetween"  : spaceBetween && Number(spaceBetween),
 					},
-					"768" : {
+					768 : {
 						"slidesPerView" : Number(respoonsive_seetings['ekit_columns_tablet']),
 						"spaceBetween"  : spaceBetween && Number(spaceBetween),
 					},
-					"640" : {
-						"slidesPerView" : Number(respoonsive_seetings['ekit_columns_mobile']),
+					1024 : {
+						"slidesPerView" : Number(respoonsive_seetings['ekit_columns_desktop']),
 						"spaceBetween"  : spaceBetween && Number(spaceBetween),
-					}
+					},
 				}
 			});
 		}
